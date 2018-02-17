@@ -1,7 +1,7 @@
 ## Tennis
 Prácticas de programación en Java
 
-## Contribuyentes:
+## Contribuyentes
 
 + Armando Payán Angulo(@All3nS3mpai)
 + Jorge Luis Almaral Robles(@HunterZK)
